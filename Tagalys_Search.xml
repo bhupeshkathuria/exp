@@ -1,0 +1,8 @@
+<config>
+  <modules>
+    <Tagalys_Sync>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Tagalys_Sync>
+  </modules>
+</config>
